@@ -1,0 +1,22 @@
+{
+  "name": "request-header-parser-microservice",
+  "version": "1.0.0",
+  "description": "freeCodeCamp Back End Development and APIs project",
+  "main": "app.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/tupelobound/request-header-parser-microservice.git"
+  },
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/tupelobound/request-header-parser-microservice/issues"
+  },
+  "homepage": "https://github.com/tupelobound/request-header-parser-microservice#readme",
+  "dependencies": {
+    "express": "^4.18.2"
+  }
+}
